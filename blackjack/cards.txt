@@ -1,0 +1,10 @@
+Cards 2, 3, 4, 5, 6, 7, 8, 9, and 10 are all worth their face value.
+
+King, Queen, and Jack are all worth 10.
+
+Ace is considered a wild card, if your combined card value is less 
+than 21, then ace is worth 11, but in the case where having ace be
+worth 11 would result in your combined card value exceeding 21, 
+then ace is worth 1.
+
+Suits have no effect in Blackjack.

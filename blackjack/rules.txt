@@ -1,0 +1,20 @@
+Blackjack, also known as Twenty-One is a game involving one dealer
+and one or more players. To beat the dealer the player must first
+not bust(go over 21) and second, either outscore the dealer or 
+have the dealer go bust.
+
+Initially the dealer will hand out 2 cards to you and 2 to himself,
+one of his being face up and the other, face down. 
+
+If you hold an Ace and a 10 card, you automatically win. Also known 
+as a blackjack. If the dealer has an Ace or 10, he will check his 
+second card to check for a blackjack. If both you and the dealer 
+have a blackjack, it counts as a draw.
+
+The player can draw up to five cards providing he does not exceed 21
+so as to get closer to 21. If the dealer has 16 or less in total he
+will draw another card. If the dealer goes over 21 and the player
+has not gone bust, the player wins!
+
+On the rare chance that a player draws 5 cards without going bust, 
+they automatically win, resulting in a five-card Charlie.
